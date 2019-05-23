@@ -1,0 +1,16 @@
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\bin\Debug\Yatzy.exe.config
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\bin\Debug\Yatzy.exe
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\bin\Debug\Yatzy.pdb
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\obj\Debug\Yatzy.csprojAssemblyReference.cache
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\obj\Debug\Yatzy.Form1.resources
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\obj\Debug\Yatzy.Properties.Resources.resources
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\obj\Debug\Yatzy.csproj.GenerateResource.cache
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\obj\Debug\Yatzy.csproj.CoreCompileInputs.cache
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\obj\Debug\Yatzy.exe
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\obj\Debug\Yatzy.pdb
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\bin\Debug\ibb\Yatzy.resources.dll
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\bin\Debug\sv-SE\Yatzy.resources.dll
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\obj\Debug\Yatzy.Form1.ibb.resources
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\obj\Debug\Yatzy.Form1.sv-SE.resources
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\obj\Debug\ibb\Yatzy.resources.dll
+C:\Users\ethesan001\Desktop\Yatzy\Yatzy\Yatzy\obj\Debug\sv-SE\Yatzy.resources.dll
